@@ -1,0 +1,7 @@
+/Users/derek.ayala/Workstation/Azure Developer/learningapp/bin/Publish/learningapp
+/Users/derek.ayala/Workstation/Azure Developer/learningapp/bin/Publish/appsettings.Development.json
+/Users/derek.ayala/Workstation/Azure Developer/learningapp/bin/Publish/appsettings.json
+/Users/derek.ayala/Workstation/Azure Developer/learningapp/bin/Publish/learningapp.dll
+/Users/derek.ayala/Workstation/Azure Developer/learningapp/bin/Publish/learningapp.deps.json
+/Users/derek.ayala/Workstation/Azure Developer/learningapp/bin/Publish/learningapp.runtimeconfig.json
+/Users/derek.ayala/Workstation/Azure Developer/learningapp/bin/Publish/learningapp.pdb
